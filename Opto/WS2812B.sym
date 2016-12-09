@@ -22,7 +22,7 @@ T 255 745 5 10 1 1 0 0 1
 pinlabel=DIN
 }
 T 200 1350 8 10 1 1 0 0 1
-refdes=DD?
+refdes=HL?
 T 200 1100 8 10 1 1 0 0 1
 value=WS2812B
 T 3450 1050 8 10 0 0 0 0 1

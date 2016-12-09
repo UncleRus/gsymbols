@@ -34,7 +34,7 @@ pintype=io
 T 6000 2800 5 10 0 0 0 6 1
 pinseq=12
 T 4945 2745 9 10 1 1 0 6 1
-pinlabel=GPIO10/SWP/HWP/SDD3
+pinlabel=SWP/HWP/SDD3/GPIO10
 T 5095 2845 5 10 1 1 0 0 1
 pinnumber=12
 }
@@ -45,7 +45,7 @@ pintype=io
 T 6000 3200 5 10 0 0 0 6 1
 pinseq=11
 T 4945 3145 9 10 1 1 0 6 1
-pinlabel=GPIO9/SHD/HHD/SDD2
+pinlabel=SHD/HHD/SDD2/GPIO9
 T 5095 3245 5 10 1 1 0 0 1
 pinnumber=11
 }
@@ -56,7 +56,7 @@ pintype=io
 T 6000 3600 5 10 0 0 0 6 1
 pinseq=13
 T 4945 3545 9 10 1 1 0 6 1
-pinlabel=GPIO8/SMOSI/SDD1/RXD1
+pinlabel=SMOSI/SDD1/RXD1/GPIO8
 T 5095 3645 5 10 1 1 0 0 1
 pinnumber=13
 }
@@ -67,7 +67,7 @@ pintype=io
 T 6000 2400 5 10 0 0 0 6 1
 pinseq=9
 T 4945 2345 9 10 1 1 0 6 1
-pinlabel=GPIO11/SCS/SDDCMD
+pinlabel=SCS/SDDCMD/GPIO11
 T 5095 2445 5 10 1 1 0 0 1
 pinnumber=9
 }
@@ -78,7 +78,7 @@ pintype=io
 T 6000 4000 5 10 0 0 0 6 1
 pinseq=10
 T 4945 3945 9 10 1 1 0 6 1
-pinlabel=GPIO7/SMISO/SDD0
+pinlabel=SMISO/SDD0/GPIO7
 T 5095 4045 5 10 1 1 0 0 1
 pinnumber=10
 }
@@ -89,7 +89,7 @@ pintype=io
 T 6000 4400 5 10 0 0 0 6 1
 pinseq=14
 T 4945 4345 9 10 1 1 0 6 1
-pinlabel=GPIO6/SCLK/SDDCLK
+pinlabel=SCLK/SDDCLK/GPIO6
 T 5095 4445 5 10 1 1 0 0 1
 pinnumber=14
 }
@@ -133,7 +133,7 @@ pintype=io
 T 6000 400 5 10 0 0 0 6 1
 pinseq=4
 T 4945 345 9 10 1 1 0 6 1
-pinlabel=GPIO16/\_WAKE\_
+pinlabel=\_WAKE\_/GPIO16
 T 5095 445 5 10 1 1 0 0 1
 pinnumber=4
 }
@@ -155,7 +155,7 @@ pintype=io
 T 6000 5200 5 10 0 0 0 6 1
 pinseq=19
 T 4945 5145 9 10 1 1 0 6 1
-pinlabel=GPIO4/PWM3
+pinlabel=PWM3/GPIO4
 T 5095 5245 5 10 1 1 0 0 1
 pinnumber=19
 }
@@ -166,7 +166,7 @@ pintype=io
 T 6000 6800 5 10 0 0 0 6 1
 pinseq=18
 T 4945 6745 9 10 1 1 0 6 1
-pinlabel=GPIO0/\_FLASH\_/SCS2
+pinlabel=\_FLASH\_/SCS2/GPIO0
 T 5095 6845 5 10 1 1 0 0 1
 pinnumber=18
 }
@@ -177,7 +177,7 @@ pintype=io
 T 6000 1200 5 10 0 0 0 6 1
 pinseq=5
 T 4945 1145 9 10 1 1 0 6 1
-pinlabel=GPIO14/HSCLK/PWM2/MTMS2
+pinlabel=HSCLK/PWM2/MTMS2/GPIO14
 T 5095 1245 5 10 1 1 0 0 1
 pinnumber=5
 }
@@ -188,7 +188,7 @@ pintype=io
 T 6000 2000 5 10 0 0 0 6 1
 pinseq=6
 T 4945 1945 9 10 1 1 0 6 1
-pinlabel=GPIO12/HMISO/PWM2/MTDI
+pinlabel=HMISO/PWM2/MTDI/GPIO12
 T 5095 2045 5 10 1 1 0 0 1
 pinnumber=6
 }
@@ -199,7 +199,7 @@ pintype=io
 T 6000 1600 5 10 0 0 0 6 1
 pinseq=7
 T 4945 1545 9 10 1 1 0 6 1
-pinlabel=GPIO13/HMOSI/CTS0/MTCK
+pinlabel=HMOSI/CTS0/MTCK/GPIO13
 T 5095 1645 5 10 1 1 0 0 1
 pinnumber=7
 }
@@ -210,7 +210,7 @@ pintype=io
 T 6000 800 5 10 0 0 0 6 1
 pinseq=16
 T 4945 745 9 10 1 1 0 6 1
-pinlabel=GPIO15/HCS/RTS0/PWM1/MTDO
+pinlabel=HCS/RTS0/PWM1/MTDO/GPIO15
 T 5095 845 5 10 1 1 0 0 1
 pinnumber=16
 }
@@ -221,7 +221,7 @@ pintype=io
 T 6000 5600 5 10 0 0 0 6 1
 pinseq=21
 T 4945 5545 9 10 1 1 0 6 1
-pinlabel=GPIO3/RXD0
+pinlabel=RXD0/GPIO3
 T 5095 5645 5 10 1 1 0 0 1
 pinnumber=21
 }
@@ -232,7 +232,7 @@ pintype=io
 T 6000 6400 5 10 0 0 0 6 1
 pinseq=22
 T 4945 6345 9 10 1 1 0 6 1
-pinlabel=GPIO1/SCS1/TXD0
+pinlabel=SCS1/TXD0/GPIO1
 T 5095 6445 5 10 1 1 0 0 1
 pinnumber=22
 }
@@ -243,7 +243,7 @@ pintype=io
 T 6000 6000 5 10 0 0 0 6 1
 pinseq=17
 T 4945 5945 9 10 1 1 0 6 1
-pinlabel=GPIO2/TXD1
+pinlabel=TXD1/GPIO2
 T 5095 6045 5 10 1 1 0 0 1
 pinnumber=17
 }
