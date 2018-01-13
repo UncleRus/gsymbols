@@ -13,7 +13,7 @@ pintype=in
 T 455 3545 3 10 1 1 0 0 1
 pinlabel=A0
 T 305 3645 5 10 1 1 0 6 1
-pinnumber=1
+pinnumber=15
 T 0 3600 5 10 0 0 0 0 1
 pinseq=6
 }
@@ -24,7 +24,7 @@ pintype=in
 T 455 3145 3 10 1 1 0 0 1
 pinlabel=A1
 T 305 3245 5 10 1 1 0 6 1
-pinnumber=2
+pinnumber=16
 T 0 3200 5 10 0 0 0 0 1
 pinseq=7
 }
@@ -35,7 +35,7 @@ pintype=in
 T 455 2745 3 10 1 1 0 0 1
 pinlabel=A2
 T 305 2845 5 10 1 1 0 6 1
-pinnumber=3
+pinnumber=17
 T 0 2800 5 10 0 0 0 0 1
 pinseq=8
 }
@@ -301,6 +301,6 @@ pinseq=1
 T 455 6745 3 10 1 1 0 0 1
 pinlabel=\_RESET\_
 T 305 6845 5 10 1 1 0 6 1
-pinnumber=12
+pinnumber=18
 }
 B 400 6400 700 800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
